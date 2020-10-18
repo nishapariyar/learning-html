@@ -1,2 +1,1 @@
-# learning-html
-Basic code for begineers
+# learning-htm
